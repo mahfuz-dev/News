@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #EFF0F5;
+}
+
+/* heading-1 start*/
+.header-1{
+    background-color: #2F2F61;
+}
+.header-1 a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+
+}
+.header-1 i{
+    padding: 5px;
+}
+/* heading-1 end*/
+
+/* heading-2 start*/
+.header-2{
+    background-color: #F43449;
+}
+
+.main1 {
+    width: 100%;
+    margin: 20px auto;
+}
+#search-icon1{
+    background: #2F2F61;
+}
+
+.input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle), .input-group>.input-group-append:last-child>.input-group-text:not(:last-child), .input-group>.input-group-append:not(:last-child)>.btn, .input-group>.input-group-append:not(:last-child)>.input-group-text, .input-group>.input-group-prepend>.btn, .input-group>.input-group-prepend>.input-group-text {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background:#2F2F61;
+}
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.title-1{
+    color: white;
+    font-weight: bold;
+    margin: 22px 0px 0px 100px;
+}
+.title-2{
+    color: white;
+    font-weight: bold;
+    margin: 22px 0px 0px 120px;
+}
+
+/* heading-2 end*/
+
+/* navbar start */
+ .navbar{
+     width: 100%;
+ }
+/* navbar end */
+
+/* full body start */
+.full-body{
+    padding: 20px;
+}
+.box1{
+    width: 15%;
+    background: #E62C8F;
+    color: white;
+    
+}
+.box2{
+    width: 15%;
+    background: #1ACD65;
+    color: white;
+}
+.box3{
+    width: 30%;
+    background: #9C93FC;
+    color: white;
+}
+.box4{
+    width: 30%;
+    background: #FFBC6B;
+    color: white;
+}
+
+/* full body end */
+
+/* details start */
+.match-box{
+    background: #E1E4ED;
+}
+
+.cricket{
+    background: blue;
+    color: white;
+}
+.cricket a{
+    color: white;
+}
+.cricket .fa-baseball-ball{
+    font-size: large;
+
+}
+/* .games{
+    position: relative;
+}
+.box4{
+    position: absolute;
+    left: -4px;
+  
+}
+.box6{
+    position: absolute;
+    left: 260px;
+} */
+.fa-horse{
+    color: black;
+    padding: 20px;
+}
+.fa-futbol{
+    color: black;
+    padding: 20px;
+}
+.fa-basketball-ball{
+    color: black;
+    padding: 20px;
+}
+.fa-stop-circle{
+    color: red;
+}
+.score{
+    padding: 20px;
+}
+.score2{
+    background: #741407;
+    color: white;
+}

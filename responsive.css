@@ -1,0 +1,38 @@
+/* Medium Layout: 1280px. */
+@media only screen and (max-width: 767px) { 
+    /*==================== HOME PAGE ==========================*/
+    body{
+        background-color: green;
+    }
+    
+  
+    /* Tablet Layout: 768px. */
+    @media only screen and (min-width: 768px) and (max-width: 991px) { 
+    /*==================== HOME PAGE ==========================*/
+    body {
+        background-color: #550074;
+    }
+    .img-y {
+        height: 70px;
+        width: 75px;
+        position: relative;
+        top: 97px;
+        left: 313px;
+    
+    /* Mobile Layout: 320px. */
+    @media only screen and (min-width: 992px) and (max-width: 1200px) { 
+        body {
+            background-color: red;
+        }
+    }
+    /* Wide Mobile Layout: 480px. */
+    @media only screen and (min-width: 480px) and (max-width: 767px) { 
+  
+        body {
+            background-color: blue;
+        }
+
+
+
+    }
+    
