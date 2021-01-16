@@ -198,7 +198,25 @@ body{
 /* shakib end */
 
 /* other games start */
-.other-bg{
-    background-image: url("img/");
+.other-bg-1{
+    background-image: url("img/basketball.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+.other-bg-2{
+    background-image: url("img/ronaldo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+}
+.other-bg-3{
+    background-image: url("img/cricket.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
 }
 /* other games end */
