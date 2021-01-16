@@ -76,12 +76,12 @@ body{
     color: white;
 }
 .box3{
-    width: 30%;
+    width: 25%;
     background: #9C93FC;
     color: white;
 }
 .box4{
-    width: 30%;
+    width: 25%;
     background: #FFBC6B;
     color: white;
 }
@@ -93,6 +93,21 @@ body{
     background: #E1E4ED;
 }
 
+.live1{
+    padding: 0px 5px 0px 5px;
+    background: whitesmoke;
+    width: 18%;
+    border-radius: 10px;
+    margin-bottom: 18px;
+}
+.live2{
+    padding: 0px 5px 0px 5px;
+    width: 18%;
+    border-radius: 10px;
+    margin-bottom: 18px;
+    background-color: whitesmoke;
+    color: black;
+}
 .cricket{
     background: blue;
     color: white;
@@ -102,7 +117,24 @@ body{
 }
 .cricket .fa-baseball-ball{
     font-size: large;
-
+}
+.img-score{
+    width: 10%;
+}
+.eng-bottom{
+    padding: 5px;
+}
+.img-middle{
+    width: 15%;
+}
+.vs{
+    background: white;
+    padding: 0px 2px 0px 10px ;
+    margin-right: 40px;
+    border-radius: 5px;
+}
+.day{
+    padding-top: 20px;
 }
 /* .games{
     position: relative;
@@ -135,6 +167,38 @@ body{
     padding: 20px;
 }
 .score2{
-    background: #741407;
+    background: #F94127;
     color: white;
 }
+
+/* feature start */
+.feature{
+    background: #E7EAF1;
+}
+.feature-live{
+    background: #E7EAF1;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.feature-live-bg{
+    padding-bottom: 22px;
+}
+/* feature end */
+
+/* shakib start */
+.shakib{
+    bottom: -6%;
+    left: 58%; 
+}
+.shakib img{
+    height: 420px;
+}
+/* shakib end */
+
+/* other games start */
+.other-bg{
+    background-image: url("img/");
+}
+/* other games end */
