@@ -220,3 +220,8 @@ body{
     height: 200px;
 }
 /* other games end */
+
+.navbar-nav li{
+    padding-right: 35px;
+    
+}
