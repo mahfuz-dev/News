@@ -65,13 +65,15 @@ body{
     padding: 20px;
 }
 .box1{
-    width: 15%;
+    width: 22%;
+    height: 114px;
     background: #E62C8F;
     color: white;
     
 }
 .box2{
-    width: 15%;
+    width: 20%;
+    height: 114px;
     background: #1ACD65;
     color: white;
 }
@@ -225,3 +227,150 @@ body{
     padding-right: 35px;
     
 }
+
+/* second page start */
+.top{
+    height: 150px;
+}
+/* part-1 start */
+.part-1{
+    background-color: #3163D2;
+}
+.item-1{
+    
+}
+.item-2{
+    margin-top: -30px;
+}
+
+/* part-1.2 start */
+.card-title-1{
+    padding: 10px 2px 5px 10px;
+    background-color: #324762;
+}
+.card-title-1 small{
+    color: white;
+    font-weight: bold;
+}
+.card-title-2{
+    padding: 10px 2px 5px 10px;
+    background-color: white;
+}
+.card-title-2 small{
+    font-weight: bold;
+}
+.skating{
+    position: relative;
+}
+.skating p{
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    color: #F44346;
+    left: 20px;
+    top: 10px;
+}
+.skating img{
+    width: 100%;
+    height: 200px;
+}
+.bg-black{
+    background-color: black;
+    margin-top: -35px;
+}
+.title-3{
+    font-size: 30px;
+    color:#F22667;
+}
+.part-1-3{
+    margin-left: -22px;
+}
+
+nav ul li a{
+    font-size: x-small;
+    color: gray;
+    border-bottom: 1px solid gray;
+}
+nav ul li a:hover{
+    color: #DC3545;
+    font-weight: bold;
+    border-bottom: 1px solid #DC3545;
+}
+/* part-1.2 end */
+
+/* part-1 end */
+
+/* part-2 start */
+.part-2{
+    background-color: #44448A;
+    padding: 10px 10px 10px 10px;
+    color: white;
+}
+.part-2-la{
+    left: -15px;
+    top: 10px;
+    font-size: small;
+    color: white;
+    padding: 2px;
+    background-color: #44448A;
+    border-radius: 3px;
+}
+.part-2-ra{
+    bottom: 13px;
+    right: 2px;
+    font-size: small;
+    color: white;
+    padding: 2px;
+    background-color: #44448A;
+    border-radius: 3px;
+}
+.news{
+    border-bottom: 1px solid gray;
+    padding: 5px;
+}
+.news img{
+    height: 80px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.option{
+    border: 1px solid gray;
+    padding: 2px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.option:hover{
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+}
+.option-logo{
+    padding: 7px 3px 7px 1px;
+    margin-left: -10px;
+    border: 1px solid gray;
+    font-size: xx-small;
+    border-radius: 20px;
+    background: black;
+    color: white;
+}
+/* part-2 end */
+
+/* part-3 start */
+.part-3{
+    background-color: #EE2F41;
+    padding: 10px 10px 10px 10px;
+    color: white;
+}
+.option-part3{
+    border: 1px solid gray;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-left: 2px;
+}
+
+/* part-3 start */
+
+/* second page end */
