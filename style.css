@@ -87,7 +87,13 @@ body{
     background: #FFBC6B;
     color: white;
 }
-
+.box5,.box6,.box7{
+    width: 100%;
+}
+.box5,.box6,.box7 p{
+    text-align: center;
+    padding-top: 8px;
+}
 /* full body end */
 
 /* details start */
